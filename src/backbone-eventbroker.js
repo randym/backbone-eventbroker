@@ -1,3 +1,6 @@
+    var Backbone = require('backbone');
+    var _ = require('underscore');
+
     /*
      * The Backbone.EventBroker adds a general purpose Event Broker implementation
      * to Backbone based on the Backbone Events API.
