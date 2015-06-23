@@ -1,5 +1,5 @@
     var Backbone = require('backbone');
-   // var _ = require('underscore');
+    var _ = require('underscore');
 
     /*
      * The Backbone.EventBroker adds a general purpose Event Broker implementation
