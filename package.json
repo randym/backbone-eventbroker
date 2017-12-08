@@ -5,5 +5,8 @@
     "Eric Feminella <eric@ericfeminella.com>",
     "Sven Lito <me@svenlito.com>"
   ],
-  "main": "./src/backbone-eventbroker.js"
+  "main": "./src/backbone-eventbroker.js",
+  "dependencies": {
+    "backbone": "latest"
+  }
 }
